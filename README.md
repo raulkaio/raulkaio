@@ -30,8 +30,8 @@ I've spent 10+ years shipping web products, from e-commerce and landing pages to
  
 ### Featured work
  
-- **PeriFinance** — Family finance SaaS in Vue.js on Cloudflare. Multi-user auth, expense and income tracking, categories, debts, and payments.
-- **Serafim Corp CRM** — Vue.js + TypeScript CRM with a drag-and-drop Kanban board for companies, people, and opportunities.
+- **Serafim Corp CRM** — My own SaaS CRM, built in Vue.js and TypeScript, with a drag-and-drop Kanban board for companies, people, and opportunities. It also handles processes, automations, notifications, billing, AI via MCP, and many other features.
+- **Perry Finance** — Family finance SaaS in Vue.js on Cloudflare. Multi-user auth, expense and income tracking, categories, debts, and payments.
 ---
  
 ### GitHub stats
